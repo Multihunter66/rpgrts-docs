@@ -14,9 +14,9 @@ A town's baker is a person with the baking skill who walks to a mill, carries fl
 bakes. The bread on the shop's shelf is bread he made. The shopkeeper's money is coins in his
 pocket, and if he dies somebody else in that town takes over the shop.
 
-There is no simulation layer and no spreadsheet behind the towns. They are colonies, played by
-the game instead of by you. This is the second-biggest decision in the project after everything
-being physical, and it is what makes interfering with the world mean something.
+There is no simulation layer and no spreadsheet behind the towns. They are colonies, played by the
+game instead of by you. It costs a lot more than faking it would, and it is what makes interfering
+with the world mean anything.
 
 ## Towns are records, not buildings
 
@@ -107,8 +107,8 @@ out.
 The systems above are the fixed part of this world. The fiction laid over them is not, and the
 world bible is one evening of brainstorming rather than canon. See [../lore/](../lore/).
 
-But a piece of fiction has to be able to live here. Some things the machinery will contradict
-straight away:
+The catch is that fiction has to be able to live in the machinery, and a few things it simply
+cannot do. Worth knowing before you spend an evening on one of them:
 
 * **No empires, no armies, no kings with legions.** The largest thing that exists is a town of a
   few hundred, and the largest force is a band.
@@ -122,8 +122,9 @@ straight away:
 * **Anything a townsperson does, a player's person can do too,** and vice versa. There is one set
   of rules.
 
-Fiction that fits these tends to get built. Fiction that needs new machinery is not forbidden. It
-just has a price, and knowing the price early is the whole point of this page.
+None of that is a ban. Ideas that fit are cheap and tend to get built, ideas that need new
+machinery cost time nobody has much of, and knowing which you are holding is the only reason this
+section exists.
 
 ## Open
 

@@ -15,10 +15,9 @@ There is no resource counter anywhere in this game. Not one. Money is coins sitt
 pocket. A shop's stock is a chest you could break into. Food is an object a person carries to a
 fire and eats. Wood is a pile someone stacked, one log per log.
 
-That sounds like an implementation detail and it is the single biggest design decision in the
-project. It means everything can be stolen, lost, burned, hauled to the wrong place, or run out at
-the worst moment. It also means a settlement is a physical claim on ground rather than a number
-going up.
+That sounds like an implementation detail, and most of the game falls out of it. Everything can be
+stolen, lost, burned, hauled to the wrong place, or run out at the worst moment, and a settlement
+ends up being a physical claim on ground rather than a number going up.
 
 ## The rule everything obeys
 
@@ -28,8 +27,8 @@ A recipe's inputs have to physically arrive at the bench. A building under const
 the labour and the materials, and a builder who has banked all the work stands idle until the wood
 turns up. A town's bread exists because a specific person walked to a specific field.
 
-The cost of this rule is that logistics is a real problem the player has to solve. That is the
-game.
+The cost is that logistics becomes a real problem the player has to solve, which is either the
+appeal or the dealbreaker depending on the person.
 
 ## People are the resource
 

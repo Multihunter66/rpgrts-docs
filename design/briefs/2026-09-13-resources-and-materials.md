@@ -46,9 +46,9 @@ There are no abstract counters anywhere in this game. A colony is eight people, 
 material is real logistics load on them: another pile to place, another leg of hauling, another
 thing to run out of at the wrong moment.
 
-So a material that does not create an interesting decision is not neutral. It is tedium with a
-name. This argues hard for a short list where every entry earns its place, which is the opposite
-of the usual instinct to add thirty ores that differ only by tier.
+So a material that does not create an interesting decision is not free, it is one more errand. That
+argues for a short list where every entry earns its place, which is the opposite of the usual
+instinct to add thirty ores that differ only by tier.
 
 If the honest answer to "what decision does this material create" is "it is the next one up", it
 should not exist.
@@ -108,7 +108,7 @@ Not a list of names. For each material:
 
 A proposal covering six materials properly is worth far more than one listing thirty.
 
-## What will be refused, so nobody wastes an evening
+## Things that will not work here, and why
 
 * **A tier ladder of ores** that differ only in how good they are.
 * **A material with no named consumer.**
@@ -116,8 +116,8 @@ A proposal covering six materials properly is worth far more than one listing th
 * **A chain deeper than about three steps.** Field to mill to oven is already a lot of walking.
 * **Anything needing an abstract counter**, a stockpile total, or a resource that is not an object.
 * **Anything needing animals**, which do not exist and are their own unbuilt problem.
-* **Anything needing new machinery** without saying so. Not forbidden, but it has a price, and
-  naming the price is the difference between a proposal and a wish.
+* **Anything needing new machinery** without saying so. Not off the table, but it costs time, and
+  saying so up front is what lets it be weighed instead of quietly dropped.
 
 ## What exists today, for reference
 

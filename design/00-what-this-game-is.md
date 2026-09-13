@@ -1,6 +1,6 @@
 # What this game is
 
-Draft 1, 2026-09-13. The one page everything else hangs off. Written to be readable by someone who has never seen the project: a collaborator, a playtester, a person who wandered into the Discord. If a decision elsewhere contradicts this page, one of the two is wrong and it is usually not this page.
+Draft 1, 2026-09-13. The one page everything else hangs off. Written to be readable by someone who has never seen the project: a collaborator, a playtester, a person who wandered into the Discord. If something elsewhere contradicts this page, one of the two needs fixing, so please say which.
 
 The game has no name yet. So does the island. Neither is a placeholder waiting on a good idea; they are open.
 
@@ -12,7 +12,7 @@ The combat is **XCOM's tactics without the turns**: cover, sight lines, position
 
 ## The five rules
 
-These are not preferences. A feature that breaks one of them is the wrong feature.
+These are the ones worth arguing about rather than around. A feature that breaks one of them probably belongs in a different game, and if you think a rule is wrong, that is a conversation rather than a refusal.
 
 1. **Nobody has hit points.** A character has limbs, blood, pain and consciousness. You go down long before you die, and most fights end with people on the ground needing treatment. Losing an arm is a thing that happens to you and that you then live with.
 2. **The player is nobody.** No chosen one, no prophecy, no forced premise. The world was here first and does not care. You start in the dirt.
