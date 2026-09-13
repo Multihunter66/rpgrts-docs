@@ -28,10 +28,11 @@ permission does not expire, because a game cannot ship with a piece that might b
 **If it ships and sells**, everyone whose work is in it gets a copy of the game and a credit.
 That much I can promise flatly, and it is the floor rather than the ceiling.
 
-**For anything substantial, we agree terms before you start**, individually, in writing. An
-afternoon on something small is one thing. A week on a character model for a game that intends to
-charge money is another, and nobody should do the second on the strength of a page on a website.
-Ask first and we will work out what is fair while it still costs nothing to change.
+**For anything substantial, talk to me before you start.** An afternoon on something small is one
+thing. A week on a character model for a game that intends to charge money is another, and nobody
+should do the second on the strength of a page on a website. I would rather sort out what is fair
+beforehand, even if that turns out to be a credit and a copy of the game, than have it come up
+after the work already exists.
 
 ## Credit
 
