@@ -89,8 +89,10 @@ Bands arrive on a schedule, march toward you in formation, and gather at your ga
 committing. They can **parley** rather than attack. If they win, they loot a chest and leave; if
 they lose badly enough, they break and run. Downed raiders lie where they fell, like anyone else.
 
-A raid is ten to twenty people, not an army. That is deliberate and stated in the five rules: there
-are no armies on this island, and fifteen determined strangers at your gate is a crisis.
+A raid is ten to twenty people, not an army, and fifteen determined strangers at your gate is a
+crisis. Storming a fortified town is the other end of the scale: with its militia turned out that
+is about forty people in one fight, which is the ceiling for anything in this game. There are no
+armies on this island, and forty is still a battle rather than one.
 
 ## Time
 

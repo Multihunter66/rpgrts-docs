@@ -27,7 +27,7 @@ More useful than the list above, because it prevents work that has to be thrown 
 * No health bars, no damage numbers as the model of injury, no revive button.
 * No chosen one, no main quest, no scripted villain, no boss.
 * No lore dump, no narrator, no text that explains the deep past.
-* No empire and no army. The biggest thing on the island is a town of a few hundred. A raid of ten to twenty is a serious raid.
+* No empire and no army. The biggest thing on the island is a town of a few hundred with a militia of fifty. A raid of ten to twenty is a serious raid, and a full assault on a fortified town with its militia turned out is about forty. That is the ceiling, and it is a battle rather than an army.
 * No faction that is evil so the player can feel good about killing it.
 * No feature whose fun depends on the player already knowing the rules. The world is consistent; players find things out.
 
