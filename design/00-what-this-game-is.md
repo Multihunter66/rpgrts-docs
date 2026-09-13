@@ -1,8 +1,8 @@
 # What this game is
 
-Draft 1, 2026-09-13. The one page everything else hangs off. Written to be readable by someone who has never seen the project: a collaborator, a playtester, a person who wandered into the Discord. If something elsewhere contradicts this page, one of the two needs fixing, so please say which.
+Draft 1, 2026-09-13. The one page everything else hangs off. If something elsewhere contradicts it, say which.
 
-The game has no name yet. So does the island. Neither is a placeholder waiting on a good idea; they are open.
+The game has no name yet. Neither does the island.
 
 ## In three sentences
 
@@ -12,17 +12,15 @@ The combat is **XCOM's tactics without the turns**: cover, sight lines, position
 
 ## The five rules
 
-These are the ones worth arguing about rather than around. A feature that breaks one of them probably belongs in a different game, and if you think a rule is wrong, that is a conversation rather than a refusal.
+A feature that breaks one of these belongs in a different game. If you think a rule is wrong, argue it.
 
 1. **Nobody has hit points.** A character has limbs, blood, pain and consciousness. You go down long before you die, and most fights end with people on the ground needing treatment. Losing an arm is a thing that happens to you and that you then live with.
 2. **The player is nobody.** No chosen one, no prophecy, no forced premise. The world was here first and does not care. You start in the dirt.
 3. **Technology is handmade and shows its mechanism.** Air reservoirs, cranks, flywheels, rivets, brass. A rifle is a craftsman's object with a history. Nothing is a smooth black box except the things nobody can build.
-4. **The world does not explain itself.** Something fell here long ago and the game never says what. The ruins are legible, their makers are not, and in-world sources disagree with each other on purpose. The player reasons it out or does not. This is a rule about what the *player* is told, and not a claim that nobody has decided anything: the protected mysteries are a specific short list in the world bible, everything else about the past is designable, and each contradictory in-world source has to be a plausible distortion of something rather than noise. Withheld and arbitrary look different, and players can tell which one they are looking at.
+4. **The world does not explain itself.** Something fell here long ago and the game never says what. The ruins are legible, their makers are not, and in-world sources disagree with each other on purpose. This is a rule about what the *player* is told: the protected mysteries are a short list in the world bible, everything else about the past can be designed, and every contradicting source has to be a plausible distortion of the same thing, not noise.
 5. **No faction is good.** The merchants are useful and predatory, the militias keep order and start wars, the older people on the hill are dignified and will leave you to die on their road. You pick a side for your own reasons.
 
 ## What the game never does
-
-More useful than the list above, because it prevents work that has to be thrown away.
 
 * No health bars, no damage numbers as the model of injury, no revive button.
 * No chosen one, no main quest, no scripted villain, no boss.
@@ -33,9 +31,8 @@ More useful than the list above, because it prevents work that has to be thrown 
 
 ## What already works
 
-This is playable, not a pitch. Everything below is in the build today. How much of it has been
-proven by somebody actually playing it is a separate and much smaller question, answered
-honestly in [04-status.md](04-status.md).
+Everything below is in the build today. How much of it a human has played is a much shorter list,
+in [04-status.md](04-status.md).
 
 | | |
 |---|---|
@@ -51,15 +48,15 @@ honestly in [04-status.md](04-status.md).
 
 **Most of the world's specifics.** There are world bible drafts covering the setting, peoples, technology, the island, tone and art direction, and they are drafts written in one session. Factions, names, history and culture are open.
 
-**Balance.** Untouched on purpose. Function first; tuning is a later problem and arguing about numbers now is wasted effort.
+**Balance.** Untouched on purpose. Function first, numbers later.
 
 ## Where help is wanted
 
-**Art**, which is the largest gap by a distance. **Lore and writing**, which has a foundation and needs someone to take it seriously and argue with it. **Design and balance** once there is something to balance. **Playtesters with opinions**, which means specific ones.
+**Art**, by a distance. **Lore and writing.** **Design and balance**, once there is something to balance. **Playtesters** with specific opinions.
 
 ## The frame
 
-Unreal Engine 5.8. No studio, no publisher, no budget, no deadlines. Small enough that there is no process to fight, nothing disappears into a backlog, and there is a direct line to everyone else working on it. What gets made goes into the game. The intention is to sell it eventually, which is stated properly in the contribution terms rather than buried here.
+Unreal Engine 5.8. No studio, no publisher, no budget, no deadlines. What gets made goes into the game. The intention is to sell it eventually; the terms are in CONTRIBUTING.md.
 
 ## Where the detail lives
 

@@ -1,12 +1,12 @@
 # The machines
 
-Draft 1, 2026-09-13. Expands the four bullets in [01-peoples-and-factions.md](01-peoples-and-factions.md) §The machines. Written from a brainstorming session whose explicit premise (a named collapse, three named machine intelligences with motives) was **declined**: the world is not explained. What survives from it is behaviour, because behaviour can be shown.
+Draft 1, 2026-09-13. Expands the four bullets in [01-peoples-and-factions.md](01-peoples-and-factions.md) §The machines. From a brainstorming session whose premise (a named collapse, three named machine intelligences with motives) was **declined**. What survives is behaviour, because behaviour can be shown.
 
-## The rule this file exists to obey
+## The rule
 
-Tone sheet rule 3 and rule 4: the ruins are readable, their makers are not. A player watching machines for an hour should be able to describe **what they do** in complete detail and be unable to say **why**, or what they are, or whether there is anything deciding it.
+Tone sheet rules 3 and 4: the ruins are readable, their makers are not. A player watching machines for an hour can describe **what they do** in detail and cannot say **why**, what they are, or whether anything is deciding it.
 
-Every section below is therefore written as *what is observable*. Nothing here is a fact the game states. If a design or data row needs one of these to be true in order to work, that row is wrong.
+Every section below is *what is observable*. Nothing here is a fact the game states.
 
 ## What a player can observe
 
@@ -18,39 +18,37 @@ Every section below is therefore written as *what is observable*. Nothing here i
 
 **They collect material.** Metal in particular. A machine that finds worked metal lying loose will often take it. Where it takes it, and what happens to it there, is the sort of thing salvagers argue about in bars.
 
-**They notice concentrations.** This is the one behaviour with teeth, and it is the player-facing one. See below.
+**They notice concentrations.** See below.
 
-**They can be walked past.** Most machines ignore most people most of the time. The Uplanders are much better at this than the settlers and will not explain how. This is the single most important practical fact about machines in the world: they are terrain with rules, not an enemy faction.
+**They can be walked past.** Most machines ignore most people most of the time. The Uplanders are better at this than the settlers and will not explain how. Machines are terrain with rules, not an enemy faction.
 
 ## The reclamation rule
 
 **A settlement that accumulates enough worked metal in one place starts attracting machines.**
 
-This is the brainstorming session's best idea and the only one adopted as a mechanic. It does three things at once:
+The one idea from the session adopted as a mechanic. It does three things:
 
 1. It gives base-building a **cost curve that is not economic**. Growing is a decision, not a reward ramp. Kenshi's shape.
 2. It explains machine raids without explaining machines. From inside the world it reads as: *they come for metal.* Nobody knows more than that, and nobody needs to.
 3. It gives the player a lever. Build in dispersed caches instead of one hoard. Build in wood and stone where you can. Keep the smithy away from the walls. Accept the raid and fortify for it.
 
-**In the code** the raid subsystem already picks its target from the centroid of the player's buildings. A metal-mass term over a settlement's stored and built material is the same shape of question and is where this would live. Not built; recorded here so the lore and the mechanic arrive together when it is.
+**In the code** the raid subsystem already targets the centroid of the player's buildings; a metal-mass term over stored and built material is where this would live. Not built.
 
 **What the game must never do:** tell the player the rule in a tutorial line, a faction description, or a loading screen. The player learns it the way they learn everything else, by getting raided and asking why.
 
 ## Baiting
 
-Machines that fight each other can be led to each other. A player who understands machine routes can pull one patrol across another's ground and let them settle it, then salvage what is left. This is a skill expression with no UI, no unlock and no explanation: it works because the world's rules are consistent, and players find it themselves or do not.
-
-It follows from behaviour that already has to exist (routes, mutual hostility) and costs nothing extra in fiction. Same status as the rule above: recorded, not built.
+Machines that fight each other can be led to each other. A player who knows machine routes can pull one patrol across another's ground and salvage what is left. No UI, no unlock, no explanation. It follows from routes and mutual hostility. Recorded, not built.
 
 ## Sites, not a region
 
-The dead zones in [03-the-island.md](03-the-island.md) are where all of this is concentrated. The bible is explicit that machines are a **destination and not a wall**, and this file does not change that. A player who never goes near a dead zone should still meet machines: one standing in a way-station, one walking a road, one that has been doing something incomprehensible in a field since before the town was founded.
+The dead zones in [03-the-island.md](03-the-island.md) are where this concentrates. Machines are a **destination, not a wall**. A player who never goes near a dead zone still meets machines: one standing in a way-station, one walking a road, one that has been doing something incomprehensible in a field since before the town was founded.
 
 ## Scale
 
-Tone sheet rule 9 applies to machines too. The biggest thing on the island is small. A machine may be large enough to be a landmark, and there may be a handful of those, but there is no machine that is a region, an army or an endgame. Anything that would make the island feel like it contains a war between titans belongs to a different game than this one.
+Tone sheet rule 9 applies. A machine may be a landmark, and there may be a handful of those, but no machine is a region, an army or an endgame.
 
-The brainstormed cathedral-sized mobile factories were declined on this rule, not on taste. A machine that visibly manufactures new machines also answers the question the setting is built on refusing: where do they come from.
+The brainstormed cathedral-sized mobile factories were declined on this rule, and because a machine that visibly makes new machines answers where they come from.
 
 ## What this file does not settle
 

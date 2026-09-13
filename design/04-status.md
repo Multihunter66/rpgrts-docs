@@ -1,29 +1,21 @@
 # What works, what is untested, and what does not exist
 
-Draft 1, 2026-09-13. The other pages describe the game as designed. This one is about how much of
-it has actually been proven, which is a different question and a more honest one.
+Draft 1, 2026-09-13. The other pages describe the game as designed. This one says how much of it
+has been proven. Updated by hand; if the build contradicts it, the build is right, so say so.
 
-Updated by hand. If something here contradicts what you see in the build, the build is right and
-this page is stale, so say so.
+## Three states
 
-## Three states, and the middle one is the big one
+**Works.** Built, and somebody has played it and watched it behave. Short list.
 
-**Works.** Built, and somebody has played it and watched it behave. This list is short.
+**Built but unverified.** The code exists, its tests pass, and no human has played it. Most of the
+project: 37 "play check pending" markers against 4 confirmations.
 
-**Built but unverified.** The code exists, its automated tests pass, and no human has ever sat down
-and played it. This is most of the project. The internal notes currently carry 37 "play check
-pending" markers against 4 confirmations.
+**Not built.**
 
-**Not built.** Doesn't exist. Some of it is designed, some of it isn't.
-
-That middle state is worth understanding before you judge anything. Automated tests prove that a
-system does what its author thought it should. They cannot tell you it feels right, that the UI
-makes sense, or that two systems which each work alone don't produce nonsense together. Play is the
-only thing that catches those, and play is the bottleneck here, because there is one person doing
-it.
-
-So if you play this and something is broken, that is expected rather than embarrassing, and the
-report is genuinely valuable. It is the scarcest thing the project needs.
+Tests prove a system does what its author thought. They cannot tell you it feels right, that the
+UI makes sense, or that two working systems make sense together. Only play catches those, and one
+person is playing. If you play this and something is broken, that is expected, and the report is
+the scarcest thing the project needs.
 
 ## Works, confirmed in play
 
@@ -41,7 +33,7 @@ report is genuinely valuable. It is the scarcest thing the project needs.
 
 ## Built, tests pass, nobody has played it
 
-This is the honest bulk of the project. All of it runs. None of it has been through a real session.
+All of it runs. None of it has been through a real session.
 
 | | |
 |---|---|
@@ -61,21 +53,17 @@ This is the honest bulk of the project. All of it runs. None of it has been thro
 | **Shell buildings and the building kit** | Generated exteriors over the real building system |
 | **The editor staging tools** | Placing whole towns without entering play mode |
 
-Some of these have been through one or more play rounds already and had defects fixed. That makes
-them better than untouched, not proven. The list stays honest by treating "fixed after a play
-round" as still unverified until somebody plays the fix.
+Some of these have had play rounds and fixes. A fix counts as unverified until somebody plays it.
 
 ## Not built
 
 **Almost all of the art.** Environments, buildings, weapons, armour, characters: placeholders and
-AI-generated stand-ins. This is the single biggest gap in the project and the reason the Discord
-exists.
+AI-generated stand-ins. The biggest gap in the project.
 
 **Animals.** Not one. The code supports non-human body plans and the race list has entries waiting,
 but nothing has been made.
 
-**Balance.** Untouched on purpose. Numbers are placeholders and arguing about them now is wasted
-effort.
+**Balance.** Untouched on purpose.
 
 **Names.** No faction, people, town or island has a real name. Neither does the game.
 
@@ -85,23 +73,16 @@ session. See [../lore/](../lore/).
 **Never designed at all:** quests or any directed content, diplomacy beyond reputation moving on
 its own, multiplayer, and anything resembling a story.
 
-## Where help is worth most, given the above
+## Where help is worth most
 
-**Art**, because it is the largest gap by a distance and almost nothing about it is locked.
+**Art**, the largest gap, and almost nothing about it is locked.
 
-**Playtesting**, because it is the actual bottleneck. A list of twenty systems nobody has ever
-played is an unusual opportunity: almost anything you touch, you will be the first person to look
-at properly.
+**Playtesting.** Twenty systems nobody has played: whatever you touch, you are the first to look at
+it properly.
 
-**Lore and design**, because the world is genuinely open and the systems underneath it are not,
-which is a rarer combination than it sounds.
+**Lore and design.** The world is open, the systems under it are not.
 
-## Keeping this page honest
+## How this page moves
 
-Two rules that decide what goes where.
-
-Something moves into **Works** when a person has played it, not when its tests go green. Passing
-tests move it out of "not built" and no further.
-
-Something moves back out of **Works** the moment a play report contradicts it. A status page that
-only ever moves in one direction is marketing rather than a status page.
+Something enters **Works** when a person has played it, not when its tests pass. It leaves the
+moment a play report contradicts it.

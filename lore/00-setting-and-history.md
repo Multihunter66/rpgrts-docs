@@ -10,7 +10,7 @@ The game is set at the point where the coast is full and the powers on the islan
 
 ## Four layers of time
 
-The history has four layers, and the further back a layer is, the less anyone knows about it. This is a design rule, not just flavour: the game never gives the player a clean account of anything older than the founding of the towns.
+The history has four layers, and the further back, the less anyone knows. The game never gives the player a clean account of anything older than the founding of the towns.
 
 ### 1. The Builders
 
@@ -26,7 +26,7 @@ What they were called, they did not leave. Settlers say "the Builders", "the old
 
 ### 2. The Silence
 
-Whatever ended the Builders. Nobody knows how long it lasted. It could have been a war, a plague, a departure, a machine that was turned on and never turned off. The ruins carry no obvious wound: no burned cities, no mass graves that anyone has found. They look abandoned rather than destroyed, which is worse. *See "What the game never says" below.*
+Whatever ended the Builders. Nobody knows how long it lasted. It could have been a war, a plague, a departure, a machine that was turned on and never turned off. The ruins carry no obvious wound: no burned cities, no mass graves that anyone has found. They look abandoned rather than destroyed. *See "What the game never says" below.*
 
 ### 3. The Arrival
 
@@ -83,14 +83,12 @@ These are the load-bearing mysteries. A data row, a faction blurb or an NPC line
 5. **What the machines are for.** They act like they have a job. Nobody knows the job.
 6. **Whether there is anything beyond the sea.** No ship has come from elsewhere in living memory. Fishing boats that go too far do not return, or return with nothing to report.
 
-**Six, and only six.** Everything else about the past is open for design and can be settled. Protecting a
-mystery is expensive, because every piece of text written afterwards has to keep the secret, so the list
-above is deliberately short and should not grow without a reason.
+**Six, and only six.** Everything else about the past can be settled. Every protected mystery costs
+every later piece of text, so the list does not grow without a reason.
 
-**Disagreement is not noise.** Sources contradicting each other only reads as mystery when each account is
-a plausible distortion of the same real thing: someone repeating it wrong, someone with a reason to lie,
-someone who saw a fragment and guessed the rest. Three rumours invented independently of each other read
-as an author who had not thought about it, which is the failure this whole section exists to avoid.
+**Disagreement is not noise.** Contradicting sources read as mystery only when each account is a
+plausible distortion of the same real thing: repeated wrong, lied about, guessed from a fragment.
+Three rumours invented independently read as an author who had not thought about it.
 
 ### A sealed answer, if one is ever wanted
 

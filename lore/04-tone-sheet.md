@@ -50,42 +50,36 @@ Draft 1, 2026-09-04. The rules for how the world feels and how every piece of te
 
 ## What found text is for
 
-Added 2026-09-13, after a contributor's journal entry made the question worth answering properly.
+Added 2026-09-13, after a contributor's journal entry raised the question.
 
-The obvious rule is that text should only carry what the game cannot show. That is nearly right
-and it throws away most of the good stuff, so here is the version that survives contact.
+The obvious rule, that text should only carry what the game cannot show, throws away most of the
+good stuff.
 
-**Text should point at what the world does, not replace it.** A journal describing a machine that
-stands on a hill is not redundant with a machine standing on a hill. It tells the player there is
-something there worth watching, and most players will never notice a pattern on their own. A world
-that refuses to explain itself needs these, or it is not mysterious, it is just opaque.
+**Text points at what the world does.** A journal about a machine on a hill is not redundant
+with the machine: it tells the player there is something worth watching, and most players never
+notice a pattern on their own. A world that refuses to explain itself needs these, or it is just
+opaque.
 
 **It can certify time the player will never spend.** Somebody watches a machine for ninety seconds.
 A journal can say it has done the same thing every day for a week. Identical observable, completely
 different meaning, and nothing but text can deliver the repetition.
 
-**The witness is usually the content.** The tone sheet's own test applies: a good piece of found
-writing tells you more about the person who wrote it than about the thing they are describing. A
-system can generate a machine on a hill. It cannot generate a man who became obsessed with one.
+**The witness is usually the content.** Good found writing tells you more about the writer than
+about the thing described. A system can generate a machine on a hill. It cannot generate a man who
+became obsessed with one.
 
-**Where it is found is half of it.** A journal about counting stones, found on a corpse inside a
-half-built structure made of stacked stones, answers its own question without anyone explaining
-anything. Text plus placement says things neither can say alone. Treat the location as part of the
+**Where it is found is half of it.** A journal about counting stones, on a corpse inside a
+half-built structure of stacked stones, needs no explanation. Treat the location as part of the
 writing.
 
-### The failure that actually matters
+### The failure that matters
 
-Not redundancy. **Describing something the game does not do.**
+**Describing something the game does not do.** The player goes looking, finds nothing, and stops
+trusting anything they read.
 
-A journal promising behaviour the world never performs is worse than repeating yourself, because
-the player goes looking and finds nothing, and after that they stop trusting anything they read.
-
-So a piece of found writing that describes behaviour is a **design proposal as much as a piece of
-fiction**, and it should be treated as one. Either the behaviour gets built or the text does not
-ship. That is not a reason to write less of it. Text that specifies something worth building is the
-most useful kind there is, and several of the behaviours in
-[06-the-machines.md](06-the-machines.md) are recorded and not yet built, so this will come up
-again.
+So found writing that describes behaviour is a **design proposal** too. Either the behaviour gets
+built or the text does not ship. Write it anyway; several behaviours in
+[06-the-machines.md](06-the-machines.md) are recorded and not yet built.
 
 ### Practical
 

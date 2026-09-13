@@ -1,23 +1,19 @@
 # Settlements and work
 
-Draft 1, 2026-09-13. What your people do when nobody is shooting at them, and what a settlement
-actually is. Everything named here is built and playable unless marked otherwise; this document
-says what it is *for*, which the code does not.
-
-Companion to [01-combat.md](01-combat.md). Read [00-what-this-game-is.md](00-what-this-game-is.md)
-first.
+Draft 1, 2026-09-13. What your people do when nobody is shooting at them. Everything named here
+is built and playable unless marked otherwise. Read
+[00-what-this-game-is.md](00-what-this-game-is.md) first.
 
 ## The pitch
 
 **RimWorld's colony, with nothing abstract in it.**
 
-There is no resource counter anywhere in this game. Not one. Money is coins sitting in somebody's
+There is no resource counter anywhere in this game. Money is coins sitting in somebody's
 pocket. A shop's stock is a chest you could break into. Food is an object a person carries to a
 fire and eats. Wood is a pile someone stacked, one log per log.
 
-That sounds like an implementation detail, and most of the game falls out of it. Everything can be
-stolen, lost, burned, hauled to the wrong place, or run out at the worst moment, and a settlement
-ends up being a physical claim on ground rather than a number going up.
+So everything can be stolen, lost, burned, hauled to the wrong place, or run out at the worst
+moment, and a settlement is a physical claim on ground rather than a number going up.
 
 ## The rule everything obeys
 
@@ -27,16 +23,15 @@ A recipe's inputs have to physically arrive at the bench. A building under const
 the labour and the materials, and a builder who has banked all the work stands idle until the wood
 turns up. A town's bread exists because a specific person walked to a specific field.
 
-The cost is that logistics becomes a real problem the player has to solve, which is either the
-appeal or the dealbreaker depending on the person.
+The cost is that logistics is a real problem the player has to solve.
 
 ## People are the resource
 
 You do not have workers. You have people, and work is one of the things they do.
 
-**They train by doing.** Skills and attributes both rise through use, on a curve that makes the
-first competence quick and mastery long. Nobody starts good at anything, and the person who has
-been swinging the axe for a season is your woodcutter whether you planned that or not.
+**They train by doing.** Skills and attributes rise through use: the first competence is quick,
+mastery is long. The person who has been swinging the axe for a season is your woodcutter whether
+you planned it or not.
 
 **They have needs.** Hunger, rest, and the state of their body. They eat, they fetch food, they
 find a bed, and a person pushed far enough past exhaustion collapses where they stand.
@@ -45,10 +40,8 @@ find a bed, and a person pushed far enough past exhaustion collapses where they 
 work, guard duty, free time. Shops keep hours. Guards work shifts. A town at three in the morning
 is a different place than at noon.
 
-**They decide for themselves, in a fixed order.** There is one priority ladder: an emergency
-beats a player order, a player order beats a need, a need beats a job, a job beats standing
-around. It lives in one place in the code precisely so that a sleeping person cannot be pulled
-away by a chore.
+**They decide for themselves, in a fixed order.** An emergency beats a player order, a player
+order beats a need, a need beats a job, a job beats standing around.
 
 ## How work actually gets assigned
 
@@ -71,14 +64,13 @@ you give them another order.
 Every container has an opinion about what it wants and how badly, expressed as a number. Goods
 only ever move from a place that wants them less to a place that wants them more.
 
-That one rule produces all the logistics behaviour in the game. A stockpile wants wood more than
+That one rule is all the logistics in the game. A stockpile wants wood more than
 the forest floor does, so wood goes to the pile. A construction site wants wood more than the
 stockpile does, so the pile drains into the site. A site that has enough drops its want to nothing
 and stops pulling. A generator wants fuel more than a pile does, so it gets fed.
 
-Destinations also want a **quantity**, not just a priority, which is why a house needing five
-planks no longer empties a stack of fifty next to it, and why an over-supplied site sends its
-surplus home.
+Destinations also want a **quantity**, so a house needing five planks does not empty a stack of
+fifty next to it, and an over-supplied site sends its surplus home.
 
 ## The production chains
 
@@ -97,7 +89,7 @@ recipe, inputs that have to arrive, a person with a skill.
 
 ## Buildings
 
-A building is not a model. It is a **design made of pieces**: walls, doorways, windows, stairs,
+A building is a **design made of pieces**: walls, doorways, windows, stairs,
 floors and storeys, which the game assembles, and which the player places in the world as a ghost
 before their people go and build it.
 
@@ -120,7 +112,7 @@ they attack the wall, preferring a gate and ignoring one that stands open.
 
 ## Power
 
-Optional, unlocked by research, and deliberately physical like everything else. A wood-fired steam
+Unlocked by research, and physical like everything else. A wood-fired steam
 generator burns fuel that somebody hauled to it. Power travels along **cables your people lay as a
 job**, not through an invisible radius. Batteries store it, masts relay it, and a junction on a
 building powers that building.
@@ -130,8 +122,7 @@ while powered and refuse to run without it. Wind turbines need no fuel.
 
 ## Research
 
-A tech tree gated on work done at a research bench. It unlocks recipes and buildings, and the gate
-is real, and an unresearched thing cannot be built even by accident. Blueprints also exist as items:
+A tech tree gated on work done at a research bench. It unlocks recipes and buildings; an unresearched thing cannot be built even by accident. Blueprints also exist as items:
 find one, have somebody study it, and the item is consumed for the knowledge.
 
 Research gates **the player's** progress. A town's baker already knows how to bake.
@@ -145,4 +136,4 @@ Research gates **the player's** progress. A town's baker already knows how to ba
 * **Thousands of people.** The current design handles a colony and a few towns. Scale beyond that
   is a known, unbuilt problem.
 * **Player-facing levers on immigration and growth.** None exist.
-* **Balance, entirely.** Numbers are placeholders and arguing about them now is wasted effort.
+* **Balance, entirely.** Numbers are placeholders.
