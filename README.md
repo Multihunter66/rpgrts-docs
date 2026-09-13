@@ -1,7 +1,7 @@
 # An unnamed squad RTS/RPG
 
 A squad-based open-world RTS/RPG in the spirit of **Kenshi** and **RimWorld**, built in Unreal
-Engine 5.8 by one person. You command a handful of people on an island that was full before you
+Engine 5.8. You command a handful of people on an island that was full before you
 got there. It is intended to be a commercial game eventually, which is stated up front in
 [CONTRIBUTING.md](CONTRIBUTING.md) because it changes what helping out means.
 
@@ -44,7 +44,7 @@ Roughly, three tiers:
 
 * **Fixed, because it is built and working.** Limbs instead of hit points, the character skeleton,
   real-time tactical combat, Unreal 5.8. Changing these means throwing away working code.
-* **The five rules**, in the page above. Firm on purpose, but still one person's taste.
+* **The five rules**, in the page above. Firm on purpose, and still open to being argued with.
 * **Everything else is open.** Every faction, every people, every name, the history, the island's
   geography, the palettes. One evening of ideas with no attachment to them.
 

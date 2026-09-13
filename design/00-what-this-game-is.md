@@ -57,7 +57,7 @@ This is playable, not a pitch. Everything below is in the build today.
 
 ## The frame
 
-Unreal Engine 5.8. One person, hobby, no studio, no publisher, no budget. No paycheck, and also no boss, no deadlines, and a direct line to the person building it. Work that gets made goes into the game rather than into a backlog.
+Unreal Engine 5.8. No studio, no publisher, no budget, no deadlines. Small enough that there is no process to fight, nothing disappears into a backlog, and there is a direct line to everyone else working on it. What gets made goes into the game. The intention is to sell it eventually, which is stated properly in the contribution terms rather than buried here.
 
 ## Where the detail lives
 
@@ -66,7 +66,7 @@ Unreal Engine 5.8. One person, hobby, no studio, no publisher, no budget. No pay
 | Combat design | [01-combat.md](01-combat.md) |
 | Settlements, work and building | [02-settlements-and-work.md](02-settlements-and-work.md) |
 | The living world: towns, trade, crime, raids | [03-the-living-world.md](03-the-living-world.md) |
-| The world bible — drafts, not canon | [../lore/](../lore/) |
+| The world bible, drafts rather than canon | [../lore/](../lore/) |
 | Art direction and asset briefs | [../lore/05-art-bible.md](../lore/05-art-bible.md), [../lore/briefs/](../lore/briefs/) |
 | Open design briefs | [briefs/](briefs/) |
 | What is being worked on | [../BACKLOG.md](../BACKLOG.md) |

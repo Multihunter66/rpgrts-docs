@@ -5,8 +5,8 @@ It is plain language, not a legal document.
 
 ## What this project is
 
-A squad-based open-world RTS/RPG for PC, built in Unreal Engine 5.8 by one person. No studio, no
-publisher, no budget, no deadlines, and no money involved at any point so far.
+A squad-based open-world RTS/RPG for PC, built in Unreal Engine 5.8. No studio, no publisher, no
+budget, no deadlines, and no money involved at any point so far.
 
 **The intention is to sell it.** There is no date and no guarantee it ever gets finished, but this
 is not a free project that might one day drift into being commercial. Selling it is the plan.
