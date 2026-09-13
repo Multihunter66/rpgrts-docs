@@ -83,6 +83,15 @@ These are the load-bearing mysteries. A data row, a faction blurb or an NPC line
 5. **What the machines are for.** They act like they have a job. Nobody knows the job.
 6. **Whether there is anything beyond the sea.** No ship has come from elsewhere in living memory. Fishing boats that go too far do not return, or return with nothing to report.
 
+**Six, and only six.** Everything else about the past is open for design and can be settled. Protecting a
+mystery is expensive, because every piece of text written afterwards has to keep the secret, so the list
+above is deliberately short and should not grow without a reason.
+
+**Disagreement is not noise.** Sources contradicting each other only reads as mystery when each account is
+a plausible distortion of the same real thing: someone repeating it wrong, someone with a reason to lie,
+someone who saw a fragment and guessed the rest. Three rumours invented independently of each other read
+as an author who had not thought about it, which is the failure this whole section exists to avoid.
+
 ### A sealed answer, if one is ever wanted
 
 The bible does not decide what actually happened, and does not need to for a long time. If a buried truth is ever wanted for a late-game reveal, it should be **one** truth, chosen then, and it must not contradict anything shipped. Candidates, none chosen:
