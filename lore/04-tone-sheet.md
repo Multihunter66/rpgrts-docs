@@ -16,7 +16,7 @@ Draft 1, 2026-09-04. The rules for how the world feels and how every piece of te
 6. **Humour is dry, situational, and never winks.** A town called "Second Attempt". A prosthetic hand with a previous owner's initials. A Builder machine that has been repainting the same wall for eighty years. The joke is the situation, not a character telling it.
 7. **No faction is good.** The Guild is useful and predatory. The militias keep order and start wars. The Uplanders are dignified and will leave you to die on their road. The Driftfolk are sympathetic and will rob you. The player picks a side for their own reasons.
 8. **The frontier is not a fantasy of conquest.** The uphill push is a land grab by people who need land, against people who were there first. The game shows it plainly and takes no side. Uplanders are never drawn as primitive, and settlers are never drawn as heroes for going uphill.
-9. **Scale is human.** No empires, no armies of thousands, no capital. The biggest thing on the island is a town of a few hundred and a militia of fifty. A raid of eight is a serious raid.
+9. **Scale is human.** No empires, no armies of thousands, no capital. The biggest thing on the island is a town of a few hundred and a militia of fifty. A raid of ten to twenty is a serious raid.
 10. **Function first.** This is also the project's development rule and it applies to prose: a description says what a thing does before it says how it feels.
 
 ## Voice

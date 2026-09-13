@@ -89,8 +89,8 @@ Bands arrive on a schedule, march toward you in formation, and gather at your ga
 committing. They can **parley** rather than attack. If they win, they loot a chest and leave; if
 they lose badly enough, they break and run. Downed raiders lie where they fell, like anyone else.
 
-A raid is eight people, not an army. That is deliberate and stated in the five rules: there are no
-armies on this island, and eight determined strangers at your gate is a crisis.
+A raid is ten to twenty people, not an army. That is deliberate and stated in the five rules: there
+are no armies on this island, and fifteen determined strangers at your gate is a crisis.
 
 ## Time
 
