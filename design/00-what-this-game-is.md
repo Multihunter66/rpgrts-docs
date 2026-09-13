@@ -33,7 +33,9 @@ More useful than the list above, because it prevents work that has to be thrown 
 
 ## What already works
 
-This is playable, not a pitch. Everything below is in the build today.
+This is playable, not a pitch. Everything below is in the build today. How much of it has been
+proven by somebody actually playing it is a separate and much smaller question, answered
+honestly in [04-status.md](04-status.md).
 
 | | |
 |---|---|
@@ -63,6 +65,7 @@ Unreal Engine 5.8. No studio, no publisher, no budget, no deadlines. Small enoug
 
 | | |
 |---|---|
+| What actually works vs what is untested | [04-status.md](04-status.md) |
 | Combat design | [01-combat.md](01-combat.md) |
 | Settlements, work and building | [02-settlements-and-work.md](02-settlements-and-work.md) |
 | The living world: towns, trade, crime, raids | [03-the-living-world.md](03-the-living-world.md) |

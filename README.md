@@ -30,6 +30,7 @@ code cannot.
 | [Combat](design/01-combat.md) | XCOM's tactics without the turns. Cover, injury, suppression |
 | [Settlements and work](design/02-settlements-and-work.md) | The colony. Nothing in this game is abstract, and that decides everything else |
 | [The living world](design/03-the-living-world.md) | Towns, trade, crime, raids, and what the machinery will refuse |
+| [Status](design/04-status.md) | What works, what is built but nobody has played yet, and what does not exist |
 
 ## The world
 
