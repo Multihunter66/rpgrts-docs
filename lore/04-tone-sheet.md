@@ -48,6 +48,54 @@ Draft 1, 2026-09-04. The rules for how the world feels and how every piece of te
 | Give humour to situations | Give humour to a character who jokes |
 | Keep the biggest thing on the island small | Add an empire |
 
+## What found text is for
+
+Added 2026-09-13, after a contributor's journal entry made the question worth answering properly.
+
+The obvious rule is that text should only carry what the game cannot show. That is nearly right
+and it throws away most of the good stuff, so here is the version that survives contact.
+
+**Text should point at what the world does, not replace it.** A journal describing a machine that
+stands on a hill is not redundant with a machine standing on a hill. It tells the player there is
+something there worth watching, and most players will never notice a pattern on their own. A world
+that refuses to explain itself needs these, or it is not mysterious, it is just opaque.
+
+**It can certify time the player will never spend.** Somebody watches a machine for ninety seconds.
+A journal can say it has done the same thing every day for a week. Identical observable, completely
+different meaning, and nothing but text can deliver the repetition.
+
+**The witness is usually the content.** The tone sheet's own test applies: a good piece of found
+writing tells you more about the person who wrote it than about the thing they are describing. A
+system can generate a machine on a hill. It cannot generate a man who became obsessed with one.
+
+**Where it is found is half of it.** A journal about counting stones, found on a corpse inside a
+half-built structure made of stacked stones, answers its own question without anyone explaining
+anything. Text plus placement says things neither can say alone. Treat the location as part of the
+writing.
+
+### The failure that actually matters
+
+Not redundancy. **Describing something the game does not do.**
+
+A journal promising behaviour the world never performs is worse than repeating yourself, because
+the player goes looking and finds nothing, and after that they stop trusting anything they read.
+
+So a piece of found writing that describes behaviour is a **design proposal as much as a piece of
+fiction**, and it should be treated as one. Either the behaviour gets built or the text does not
+ship. That is not a reason to write less of it. Text that specifies something worth building is the
+most useful kind there is, and several of the behaviours in
+[06-the-machines.md](06-the-machines.md) are recorded and not yet built, so this will come up
+again.
+
+### Practical
+
+* **Don't number entries** unless there is a real series and a system to find them in. "Entry 13"
+  promises twelve others.
+* **Never resolve a protected mystery**, and the list of those is in
+  [00-setting-and-history.md](00-setting-and-history.md). Observing a machine's behaviour in detail
+  is encouraged. Saying where it takes the stone is not.
+* **Length should match the object.** A note on a corpse is short. A book on a shelf can ramble.
+
 ## Open
 
 - Whether there is any in-world written language beyond settler English (Uplander script, Builder marks). Currently: Builder marks are unreadable, Uplanders write, settlers write English.
