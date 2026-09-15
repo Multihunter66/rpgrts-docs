@@ -57,8 +57,7 @@ Light is hard, low and warm. Long shadows. Dust in the air. Overexposed and desa
 - **Guild**: settler cut in better cloth, less iron, more brass. A ledger, a strongbox, a hired gun behind.
 - **Technician**: settler cut under a leather apron or a long work coat, goggles down more often than up, a tool roll and a cell pack on the belt, a cable from the pack to whatever is in the hand. Often one powered limb. Reads as *the one who knows how it works*. **Powered armour** is the militia silhouette with a frame over it: cell pack on the back, cables along the limbs, a walking machine with a person inside.
 - **Outlaw**: settler pieces mismatched and stolen, militia plate with the sash cut off, a short fat scatter gun.
-- **Uplander** (alien species one): tall and narrow, a head or more over a human, elongated skull, long limbs, long-toed bare or wrapped feet; layered patterned textile, a thin bronze collar or chest piece worn as status, a bow or a long bronze-headed spear. Reads as *composed*. Nothing dangles.
-- **Driftfolk** (alien species two): a body of neither family, hairless pale grey-blue skin, very large dark eyes with no white, long fingers, dressed in whatever is available, always with one thing unmistakably theirs. Reads as *between*. (Their look is still open; see §10.)
+- **The other peoples**: OPEN (2026-09-15). Who else lives on the island is not decided and is a contributor's to propose (lore sheet §4). The constraints for any proposal: humanoid on the shared skeleton, realistic proportions, difference in head, skin, hands, build and bearing, never limb count; their things look *finished* where the settlers' look *assembled*; the highland aesthetic is fitted stone, terraces, textiles, ceramics, bronze, composure. The bible's draft (a tall, narrow, composed highland people; a stranded people with large dark eyes) is one proposal, not a reference; its plates were withdrawn.
 - **Drone**: small, quick, purposeful, alloy, one light. Insect or bird logic without being either.
 - **Mech**: 3 to 4 m, slow, load-bearing, the same scoured pale alloy as the wrecks, joints exposed, sand in every seam, a single light. Nearly human proportions, then not. A dead mech is architecture; a live one is weather.
 
@@ -78,12 +77,10 @@ From `docs/lore/plates/`, the picks only:
 |---|---|
 | `batch1-plate1-pick1.jpg` | The coast landscape from the game camera: salt flats, one green strip, Builder road through the town. Houses superseded (too light; see the house sets) |
 | `batch1-plate2f-pick1.jpg`, `-pick2-back.jpg` | **The militia soldier.** Mask and back tank are the load-bearing signals; coat and brimmed helmet are variants |
-| `batch1-plate3-tall-pick1.jpg` | **The Uplander species** |
 | `batch1-plate4-pick1.jpg` | **The Builder road**: raised causeway, cliff stair, doorless way-station |
 | `batch1-plate5-pick2.jpg` | **The dead mech**: a giant with a head and hands, cracked pale plating, cabling spilling out |
 | `batch1-plate6-pick1.jpg` | **The laser musket**: walnut and iron around a seamless dark cell in a brass cradle, crank and flywheel |
-| `batch1-plate7-pick1.jpg` | **The front line**: palisade under construction, steam engine on a cart, Uplanders on the road below |
-| `batch1-plate8-pick1.jpg` | A first look at the Driftfolk, not a species reference |
+| `batch1-plate7-pick1.jpg` | **The front line**: palisade under construction, steam engine on a cart. The tall figures on the road are the bible's DRAFT highland people, not a species reference |
 | `batch2-house-setA-*.png` | Settler **frontier dialect**: warm ochre, squat, bolted-on pipes and stairs |
 | `batch2-house-setB-*.png` | Settler **Guild dialect**: pale, taller, monolithic, cast at scale |
 
@@ -93,7 +90,7 @@ Add three or four photographs as material references: a desert bunker, a Girando
 
 Anything on the bible's *Open* lists is the artist's to propose, and a plate is the right way to propose it:
 
-- **The Driftfolk's one unmistakable thing** (the eyes are the current candidate).
+- **The peoples other than the humans**: their bodies (within the humanoid rule), dress, things and settlements. The biggest open item; the lore sheet §4 carries the constraints.
 - **The Technicians' halls**: which building dialect, and what marks a workshop from the road. Draft: the Guild's pale monolithic dialect with the frontier's bolted-on machinery, cables to every roof, a mast, one chimney that does not smoke.
 - **The island's outline** and a painted map.
 - **The island's animals**, by zone.
@@ -109,4 +106,4 @@ Each: two sentences of brief plus this sheet. Scenes from the game camera, figur
 2. **Technician at the bench** (figure, eye level). Apron, goggles down, one powered arm, a coil rifle half-assembled: settler iron and brass around a dark seamless cell, capacitors and fins on the outside, a cable to a pack.
 3. **Powered armour beside a militia soldier** (two figures, eye level). The same soldier as plate 2f, and the frame over him: cell pack, cables along the limbs, loud and heavy. Scale mark: the soldier.
 4. **Dead zone with a live mech** (scene). Warm sand, monumental stone, a half-buried wreck with a face, and a standing machine twice the height of the two crouching salvagers, same cracked plating as the wreck, one light.
-5. **Uplander and settler on the road** (two figures, eye level). Height difference, textile against coat, spear against rifle, composure against practicality.
+5. **A highland person and a settler on the road** (two figures, eye level). Whatever people the artist proposes for the highlands, beside the settler: their finished things against the settler's assembled ones, composure against practicality. This plate IS the proposal.

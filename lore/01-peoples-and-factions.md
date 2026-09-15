@@ -2,6 +2,10 @@
 
 Draft 1, 2026-09-04. Placeholder names in `[brackets]`. This file also records how the placeholder factions and races already in the code map onto the bible, so the data can be reworked without guessing.
 
+## Reopened 2026-09-15: the peoples are a contributor's to design
+
+The user's decision: *we do not know who is on the island yet; we know where we want to go aesthetically.* Everything in this file about the two alien species, from the body plans to the societies, is therefore a **draft proposal**, not canon. It stays here as something to argue with. The frame that a proposal has to respect (humanoid on the shared skeleton, not primitive, not evil, a distinct competence, Builder descent as a claim never a fact, practical with the machines, fitted to the highland aesthetic) is in `briefs/2026-09-15-lore-direction-sheet.md` §4. The species plates (batch 1 plates 3 and 8) were withdrawn from `plates/` the same day so nothing reads as a reference. The settlers' shape stands.
+
 ## The five blocs
 
 | Bloc | Who | Where | Tech | What they want |
