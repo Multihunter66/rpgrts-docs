@@ -55,6 +55,7 @@ There is no single war. There are several powers who would fight each other give
 
 - **The coastal towns pushing uphill** against the `[Uplanders]`. This is the war the player sees first, the front line on the map, the one the militias are arming for.
 - **The towns against each other.** The guild, the militias and the warlord-mayors do not agree on who runs the coast, and the uphill push is partly an excuse to arm.
+- **Everyone courting the `[Technicians]`** (2026-09-15). The one institution that builds high tech sells to both sides of every quarrel and is the reason the uphill push has not happened yet: nobody wants to march without their machines, and the Technicians are in no hurry.
 - **Everyone against the machines**, quietly. Nobody has time for it, and the machines do not seem to want anything, until a survey party goes somewhere it should not.
 - **Outlaws against all of the above**, and against each other.
 

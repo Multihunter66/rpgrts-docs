@@ -19,6 +19,10 @@ First drafts, written 2026-09-04 from one brainstorming session. Everything here
 - **Decided vs open.** Each file ends with an *Open* list. Anything not in an Open list is decided for now. Reopening a decision is fine, but do it in the file, not in a chat.
 - **The mystery is load-bearing.** `00-setting-and-history.md` has a section on what the game never states. Do not resolve those in a data row by accident.
 
+## Briefs
+
+`briefs/2026-09-15-lore-direction-sheet.md` (what the world is) and `briefs/2026-09-15-concept-art-direction-sheet.md` (how it looks) are the two pages handed to a contributor, with the reference folder from `plates/`; the earlier briefs are generator prompt batches.
+
 ## What was decided in the session that produced these
 
 - Something fell, long ago, and the game never fully explains what. Kenshi's mystery with Fallout's readable ruins.

@@ -6,7 +6,7 @@ Draft 1, 2026-09-04. Placeholder names in `[brackets]`. This file also records h
 
 | Bloc | Who | Where | Tech | What they want |
 |---|---|---|---|---|
-| **Coastal settlers** | Humans, a few generations old | Coast and lowlands | Frontier machines: steam, wind, pneumatics, iron | Land, trade, order on their own terms |
+| **Coastal settlers** | Humans, a few generations old | Coast and lowlands | Frontier machines: steam, wind, pneumatics, iron; and, through the `[Technicians]`, crude high tech reverse-engineered from the ruins | Land, trade, order on their own terms |
 | **`[Uplanders]`** | Alien species one, old, organised | Highlands, in and around the ruins | Their own, different rather than worse | To be left alone, and to keep the ruins |
 | **`[Driftfolk]`** | Alien species two, stranded like the humans | Scattered through both regions | Whatever they can get | A place, any place |
 | **The machines** | Drones and mechs, Builder leftovers | The ruins, and certain dead zones | Builder tech, not reproducible | Unknown. They act like they have a job |
@@ -18,6 +18,7 @@ Humans arrived a few generations ago and remember nothing before that. They buil
 
 - **The `[Guild]`.** The merchants' association. Runs the caravans, sets the prices, lends the money, and therefore owns a piece of every town. Not an army, but it pays for several. Wants the roads open and the uphill push to happen slowly and profitably. Builds in the pale, poured, monolithic dialect (art bible §buildings settler); a Guild quarter is recognisable from the road.
 - **The `[Militias]`.** Every town of size has one. They started as watchmen and became the closest thing the coast has to law. Some are honest. Some are the mayor's private army. Militias from different towns do not automatically get on. They want the uphill push to happen now, and to be the ones doing it. Their towns and outposts are the warm, squat, bolted-on frontier dialect.
+- **The `[Technicians]`** (added 2026-09-15). The third institution, and the youngest: the people who stopped treating Builder tech as loot and started taking it apart. A workshop guild with a few halls on the coast and expeditions in the dead zones, they build the coast's only high tech (02 §tier 3): cell generators, energy weapons of their own design, optics, radio, powered limbs and armour, the first engines. Crude, cabled, patched, and better than anything else on the island. They sell some of it dear, keep the rest, and are the one power the Guild cannot buy and the militias cannot take, because the goods die with the people who maintain them. Whoever has the Technicians' favour wins the uphill war; the Technicians know it and sell to both sides. **The player's route into tier 3 runs through them**: trade, theft, study or hiring one. They are not a faction in the code yet (§mapping).
 
 Beneath those, each town has its own character: fishing town, mill town, mining town, guild town, a warlord's town. Towns in the game are settlements with a faction, a population, roles and a shop; the *character* comes from which stations and which faction they carry.
 
@@ -82,5 +83,6 @@ The rename itself is a data pass, not a design decision, and should wait until t
 - Real names for all five blocs and both alien species.
 - The Driftfolk's look (art bible decides; plate 8).
 - Each alien species' distinctive competence in the skills table.
+- **The `[Technicians]` in the code (2026-09-15).** No `EFaction` value yet. Options: a new faction with its own halls as settlements (the staging tooling can place them), or a role inside existing towns (`ESettlementRole`, the Keeper pattern) with the halls as Guild-neutral buildings. The first fits "a power the Guild cannot buy"; the second is cheaper. Decide when the tier-3 slice is specced.
 - Whether the Guild and the Militias are two factions or many (one per town) in the code. One per town matches how settlements already work; a cross-town Guild faction would need a "member of a larger body" notion that does not exist yet.
 - The island's animals.

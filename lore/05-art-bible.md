@@ -6,6 +6,8 @@ Draft 1, 2026-09-04. Hangs off `04-tone-sheet.md`. The standing decision is a **
 
 **A frontier of cast-stone bunkers, brass and riveted iron, built on the stone of someone far greater, in a desert under a hard sun.** Sci-fi wild west with steam and diesel, and a Bronze-Age highland civilisation above it. Timber is wealth, not structure.
 
+**Named the way the user says it (2026-09-15):** a light cowboy aesthetic with post-apocalypse flair, Metro and Fallout mixed in. Three layers, and every plate should show which layer each thing belongs to: the **Western frontier** (coat, hat, long rifle, cast stone, steam and pneumatics; the common tier), **settler high tech** (the `[Technicians]`' retro-futurism: cabled, finned, gauged, patched, built around a salvaged Builder part; rare, dear, the player can build it), and the **Builders** (seamless, unmarked, monumental; never buildable). Western gives the posture, Fallout the tinkering and the retro-futurist high tech, Metro the hostile air and the mask. The twist that separates it from all three: nobody remembers a before. The ruins are someone else's, so the mood is archaeological, not nostalgic.
+
 ## The camera is the game's camera
 
 **Every scene plate is rendered from the game's own view: a high three-quarter perspective, roughly 45 to 60 degrees down, a person visible as a scale mark with a long shadow.** The player never sees this world at eye level, and the gen Atlas key art (2026-09-04) made the point: much of what read as "the look" was the RTS perspective itself. Eye-level is reserved for figure and object plates (portraits, weapons), where the game's own portrait stage and inventory preview are also eye-level.
@@ -33,6 +35,8 @@ Draft 1, 2026-09-04. Hangs off `04-tone-sheet.md`. The standing decision is a **
 
 **Builders**: monumental dark stone cut to a tolerance no chisel explains; and the alloy: pale, chalky, sand-scoured to a greenish grey, seamless where it is intact, with cabling spilling out like viscera where it is broken (revised 2026-09-04 against the gen Atlas key art, which replaced the first draft's "dark and matte"). The one material in the world with no visible joins. A Builder object never looks *made*, which is the visual tell. Two states of it (plate 6, 2026-09-04): an intact **cell** or core is dark, smooth and seamless, unmarked however old; exposed **hull** plating is the pale, chalky, sand-scoured alloy. A laser musket is the two side by side: the only unmarked thing on a bench full of tool marks.
 
+**Settler high tech** (tier 3, 2026-09-15): the Technicians' dialect. A settler-built housing, iron and brass, around a Builder part that is visibly *other*: a dark seamless cell in a riveted cradle, a pale alloy coil under a cage. Everything the settlers added is on the outside: braided cables in cloth sleeving, cooling fins, brass valves, glass dials with hand-painted scales, vacuum tubes, a heat sink bolted on, tape and solder and a replaced panel in a different colour. Retro-futurism in the Fallout sense, but frontier-made: no chrome, no fins for style, nothing moulded. A Technician's machine looks *understood* where a salvager's looks *rigged*, and both look assembled where a Builder's looks grown.
+
 **Machines**: Builder alloy with settler-visible damage. A drone that has been patched by a salvager is the two materials meeting. Scale and silence are the point (gen Atlas): a dead mech is architecture, a live one is weather. Exposed components mark what a machine is for and where it is weak; nothing is labelled.
 
 ## Silhouettes
@@ -43,6 +47,7 @@ Draft 1, 2026-09-04. Hangs off `04-tone-sheet.md`. The standing decision is a **
 - **Outlaw**: settler pieces mismatched and stolen, militia plate with the sash cut off, a scatter gun.
 - **Uplander**: **tall and narrow** (decided 2026-09-04 off plate 3: elongated skull, long-toed bare feet, long limbs, a head or more over a human), layered textile, a bronze chest piece or collar worn as status rather than armour, a bow or a long bronze-headed spear, sandals or wrapped feet. Reads as *composed*. Nothing dangles.
 - **Driftfolk**: a body visibly of neither family, dressed in whatever is available, always with one thing that is unmistakably theirs (a tool, a piece of clothing, a way of wrapping the hands). Reads as *between*.
+- **Technician** (2026-09-15): settler cut under a leather apron or a long work coat, goggles down more often than up, a tool roll and a cell pack on the belt, a cable running from the pack to whatever is in the hand. Often one powered limb. Reads as *the one who knows how it works*. Powered armour is the militia silhouette with a frame over it: cell pack on the back, cables along the limbs, a walking machine with a person inside.
 - **Drone**: small, quick, purposeful, alloy, one light. Insect or bird logic without being either.
 - **Mech**: tall, slow, load-bearing, alloy, weathered to grey, a single light. Nearly human proportions, then not. The doorway problem embodied.
 
@@ -79,7 +84,8 @@ Hard sun, long shadows, dust and heat haze on the coast and foothills; the land 
 - **gen Atlas (Fumito Ueda, 2027; the user's own reference, named 2026-09-04)**: THE reference for the Builders, the machines and the dead zones. Colossal dead mech bodies and monumental architecture in a harsh natural landscape, a person tiny among them; melancholy, silence, minimal ornament; overexposed, desaturated light. Ueda names Wall-E's *quiet* passages and Giant Robo as his own inspirations. Weak points and climbable surfaces read from the machine's exposed components and lighting, never from prompts, which is the rule for how a Builder machine shows what it is for. Watch the reveal trailer before any machine or dead-zone plate.
 - **Metro (2033 / Exodus; the user's reference, 2026-09-04)**: the pneumatic rifle is the Tikhar — hand pump under the barrel, pressure gauge, visibly assembled from parts, pumped back up between shots; and the gas masks: cracked filters, scratched lenses, tape repairs, a face taken away. Also Metro's grime and improvisation on every settler machine. NOT Metro's tunnels or its Soviet palette; the island is sun and sand.
 - **Kenshi**: the indifference, the ruins-with-people, skeletons, the way a town looks assembled.
-- **Fallout: New Vegas**: the readable rubble, the frontier towns, the militia-plus-junk armour.
+- **Fallout: New Vegas**: the readable rubble, the frontier towns, the militia-plus-junk armour; since 2026-09-15 also the retro-futurist high tech (energy weapons with visible capacitors, powered armour as a frame around a person, the Brotherhood-shaped faction that hoards it), for the `[Technicians]` only, and never the 1950s nostalgia.
+- **Westerns (Leone, Deadwood; the user's "cowboy aesthetic", 2026-09-15)**: the posture, the dust, the long coat and the long rifle, law as whoever holds the town. Silhouette and stance, never the American iconography itself; there is no flag, no railroad, no revolver.
 - **Dune (Villeneuve)**: the Uplanders' composure, the scale of the Builder work, restraint in colour.
 - **Machu Picchu, Sacsayhuamán, the Qhapaq Ñan**: the Builder stone and the roads, literally.
 - **Mad Max: Fury Road**: assembled machines that show their mechanism; wear.
@@ -95,7 +101,7 @@ Asset:        <name, matching the item / building / unit id it will become>
 Bible refs:   <sections of 05-art-bible.md and any lore file it draws on>
 Kind:         <prop | weapon | armour piece | building piece | character body | creature>
 Zone/people:  <coast settler | militia | guild | outlaw | uplander | driftfolk | builder | machine>
-Tier:         <0 hand craft | 1 frontier machine | 2 master/relic | 3 builder>
+Tier:         <0 hand craft | 1 frontier machine | 2 master/relic | 3 settler high tech | 4 builder>
 Materials:    <from the Materials section, in order of dominance>
 Mechanism:    <what must be visible working, for anything mechanical>
 Silhouette:   <one line: what it reads as from 30 m>
@@ -112,6 +118,7 @@ Prompt:       <the generator prompt, one paragraph, realistic, neutral backgroun
 - Wall thickness for the massive settler look inside the building system (cells are 100 uu, walls 10 uu today; the look needs thick-seeming faces, draft 40 uu, battered faces and deep reveals rather than a literal metre). See `briefs/2026-09-04-asset-batch-2.md` brief 4.
 
 - Driftfolk look: the one unmistakable thing.
+- The Technicians' halls: which building dialect, and what marks a workshop from the road (2026-09-15). Draft: the Guild's pale monolithic dialect with the frontier's bolted-on machinery, cables to every roof, a mast, and one chimney that does not smoke.
 - The island's outline and a painted map.
 - Whether Guild blue and town colours are a real system (faction colours in the UI already exist and could carry them).
 - Which 3D generator is used: split under test since 2026-09-04. Tonetta (parametric build scripts, refine-not-regenerate, hard-surface only, exact dimensions) for the building kit, machines and weapons; Tripo for bodies, clothing and anything driven by a concept image. Decided after batch 2's two test runs. Image side decided 2026-09-04 by results: **Midjourney 8.2** for the Guild dialect, Builders and dead zones (mass and restraint), **nano banana** (Google's Gemini image model; the exact version — nano banana or nano banana Pro — was never recorded) for figures, props and the frontier dialect (greebles and grime). Characters rig to the UE5 Manny skeleton; the pipeline decision is recorded in the backlog, not here.
