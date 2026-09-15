@@ -116,7 +116,7 @@ Prompt:       <the generator prompt, one paragraph, realistic, neutral backgroun
 
 ## Open
 
-- Wall thickness for the massive settler look inside the building system (cells are 100 uu, walls 10 uu today; the look needs thick-seeming faces, draft 40 uu, battered faces and deep reveals rather than a literal metre). See `briefs/2026-09-04-asset-batch-2.md` brief 4.
+- Wall thickness for the massive settler look inside the building system (cells are 100 uu, walls 10 uu today; the look needs thick-seeming faces, draft 40 uu, battered faces and deep reveals rather than a literal metre). (The 2026-09-04 asset brief that carried this was removed 2026-09-15.)
 
 - Driftfolk look: the one unmistakable thing.
 - The Technicians' halls: which building dialect, and what marks a workshop from the road (2026-09-15). Draft: the Guild's pale monolithic dialect with the frontier's bolted-on machinery, cables to every roof, a mast, and one chimney that does not smoke.

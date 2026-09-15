@@ -21,7 +21,7 @@ First drafts, written 2026-09-04 from one brainstorming session. Everything here
 
 ## Briefs
 
-`briefs/2026-09-15-lore-direction-sheet.md` (what the world is) and `briefs/2026-09-15-concept-art-direction-sheet.md` (how it looks) are the two pages handed to a contributor, with the reference folder from `plates/`; the earlier briefs are generator prompt batches.
+`briefs/2026-09-15-lore-direction-sheet.md` (what the world is) and `briefs/2026-09-15-concept-art-direction-sheet.md` (how it looks) are the two pages handed to a contributor, with the reference folder from `plates/`. The 2026-09-04 generator prompt batches were removed 2026-09-15; the plates they produced stay, with their verdicts folded into the art bible.
 
 ## What was decided in the session that produced these
 
