@@ -45,7 +45,7 @@ The one material in the world with no visible joins is Builder material. Everyth
 |---|---|---|---|
 | Coast and lowlands | Pale sand, salt white, dry scrub, scoured rock. Green **only** in irrigated river valleys | Weathered beige-grey cast stone, steel panel, riveted iron, canvas; timber precious | Brass, red rust, Guild blue, the one green field |
 | Foothills (the front) | Dust, ochre, scrub, exposed rock | Half-built timber, palisade, tents, Builder grey stone | Blood, smoke, militia colours |
-| Highlands | Terrace green on grey stone, snow above | Precise dark fitted stone, textiles, bronze | Uplander dyes: deep red, black, undyed wool |
+| Highlands | Terrace green on grey stone, snow above | Precise dark fitted stone, textiles, bronze | Highland dyes: deep red, black, undyed wool |
 | Dead zones | Warm sand, ochre, wind ripples. **Not grey ash** | Builder alloy, pale and chalky, greenish; monumental stone | The single wrong colour: a live machine's light |
 
 Light is hard, low and warm. Long shadows. Dust in the air. Overexposed and desaturated in the dead zones.
@@ -67,7 +67,7 @@ Light is hard, low and warm. Long shadows. Dust in the air. Overexposed and desa
 
 ## 8. What to avoid
 
-Fantasy, ornate, glowing, neon, clean, new, pristine, cartoon, anime, stylised, chrome, fins for style, moulded plastic, text, logos. No American iconography: no flag, no railroad, no revolver, no saloon. No orc-shaped aliens (heavy brow, tusks: the first Uplander plate went there and was rejected). No showroom androids (the first mech plates went there twice). No Andean costume on humans: the Inca flavour belongs to the Builders' stone and the Uplanders' things, never to settler dress.
+Fantasy, ornate, glowing, neon, clean, new, pristine, cartoon, anime, stylised, chrome, fins for style, moulded plastic, text, logos. No American iconography: no flag, no railroad, no revolver, no saloon. No orc-shaped aliens (heavy brow, tusks: an early highland-people plate went there and was rejected). No showroom androids (the first mech plates went there twice). No Andean costume on humans: the Inca flavour belongs to the Builders' stone and the Uplanders' things, never to settler dress.
 
 ## 9. The reference folder
 

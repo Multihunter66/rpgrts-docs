@@ -2,17 +2,13 @@
 
 Draft 1, 2026-09-04. Placeholder names in `[brackets]`. This file also records how the placeholder factions and races already in the code map onto the bible, so the data can be reworked without guessing.
 
-## Reopened 2026-09-15: the peoples are a contributor's to design
-
-The user's decision: *we do not know who is on the island yet; we know where we want to go aesthetically.* Everything in this file about the two alien species, from the body plans to the societies, is therefore a **draft proposal**, not canon. It stays here as something to argue with. The frame that a proposal has to respect (humanoid on the shared skeleton, not primitive, not evil, a distinct competence, Builder descent as a claim never a fact, practical with the machines, fitted to the highland aesthetic) is in `briefs/2026-09-15-lore-direction-sheet.md` §4. The species plates (batch 1 plates 3 and 8) were withdrawn from `plates/` the same day so nothing reads as a reference. The settlers' shape stands.
-
-## The five blocs
+## The blocs
 
 | Bloc | Who | Where | Tech | What they want |
 |---|---|---|---|---|
 | **Coastal settlers** | Humans, a few generations old | Coast and lowlands | Frontier machines: steam, wind, pneumatics, iron; and, through the `[Technicians]`, crude high tech reverse-engineered from the ruins | Land, trade, order on their own terms |
-| **`[Uplanders]`** | Alien species one, old, organised | Highlands, in and around the ruins | Their own, different rather than worse | To be left alone, and to keep the ruins |
-| **`[Driftfolk]`** | Alien species two, stranded like the humans | Scattered through both regions | Whatever they can get | A place, any place |
+| **`[The highland people]`** | Whoever was already here. OPEN: to be designed | Highlands, in and around the ruins | Their own, different rather than worse | To be left alone, and to keep the ruins |
+| **Other peoples** | OPEN: how many, who, from where | Wherever the design puts them | Whatever the design gives them | Whatever the design gives them |
 | **The machines** | Drones and mechs, Builder leftovers | The ruins, and certain dead zones | Builder tech, not reproducible | Unknown. They act like they have a job |
 | **Outlaws and nomads** | Anyone | The roads between | Stolen | Money, freedom, or just not being in a town |
 
@@ -30,23 +26,20 @@ Beneath those, each town has its own character: fishing town, mill town, mining 
 
 **Human variety.** The existing subrace table (`DT_SubRaceData`) has eighteen human subraces including *Noble*, which the frontier does not have. Rework it around **where a human grew up**, which is what a frontier actually produces: coast-born, mill-town, mine-town, road-born (caravan children), foothill homesteaders, outlaw camps. Stat offsets follow the upbringing, not the blood.
 
-## `[Uplanders]` (alien species one)
+## The other peoples: open (2026-09-15)
 
-The people who were already here. They live in the highlands among the Builder ruins, sometimes inside them, and claim descent from the Builders. Whether that is true is one of the sealed mysteries; what is certain is that they have been here far longer than the humans and know the roads, the weather and the machines far better.
+**We do not know who is on the island yet; we know where we want to go aesthetically.** The user's decision. Everything this file once said about two alien species (a tall highland people claiming Builder descent, a stranded people with no territory) was a draft and has been removed so that nothing reads as canon. Designing the peoples is a contributor's job; the brief is `briefs/2026-09-15-lore-direction-sheet.md` §4.
 
-- **Body plan: humanoid, tall and narrow** (decided 2026-09-04): two arms, two legs, a head or more over a human, elongated skull, long limbs and long-toed feet, wrapped shins, bare or sandalled. Reference `docs/lore/plates/batch1-plate3-tall-pick1.jpg`. This is deliberate: a humanoid alien shares the skeleton, the clip library and the armour sockets, and costs one mesh plus data. An exotic body plan is a later species.
-- **Society: old and organised.** Towns with real institutions, seasonal movement between highland sites, a priesthood or a scholar class that keeps whatever they know about the Builders. They are not primitive and the game must not draw them that way. Their tech is different: textiles, ceramics, stone and bronze worked to a standard humans cannot match, and a few things nobody can explain.
-- **Attitude to humans:** wary, contemptuous of the noise, and increasingly alarmed. Individual Uplanders trade, marry out, and join human crews. Their institutions do not.
-- **Attitude to the machines:** they know how to walk past them. They will not say how.
+What the frame fixes, so a proposal has somewhere to stand:
 
-## `[Driftfolk]` (alien species two)
+- **Someone lives in the highlands and was there first.** The coast is pushing uphill against them; that is the visible war. They know the roads, the weather and the machines better than the settlers. Their towns, institutions and law exist, because tone rule 8 forbids a primitive people.
+- **Every people is humanoid on the shared skeleton**: two arms, two legs, a head, one proportion family, so it shares the animation library and the armour sockets. Difference lives in head, skin, hands, build, bearing and culture. An exotic body plan is a later, separate cost.
+- **Each people is good at something the others are not**, in a way that shows up in the skills table.
+- **Builder descent is a claim, never a fact** (00 §what the game never says, item 4).
+- **Their relation to the machines is practical**: someone knows how to walk past them and will not say how.
+- **They fit the aesthetic of where they live** (05): the highlands are fitted stone, terraces, textiles, ceramics, bronze, composure; their things look *finished* where the settlers' look *assembled*.
 
-Stranded, like the humans, at another time, and no better at explaining it. Fewer than the humans, and with no territory of their own; they live in human towns, in Uplander towns, in caravans, and in camps of their own on land nobody wants.
-
-- **Body plan: humanoid**, for the same reason as above. Visibly different from both humans and Uplanders.
-- **Society: none of their own** worth the name. Crews, families, a loose sense of kinship. This makes them the species most likely to turn up in a player squad and the least likely to start a war.
-- **The point of them:** they are nobody's people, which means every faction has an opinion about them and none is responsible for them. They are the island's outsiders and its go-betweens.
-- **Distinctive competence:** to be decided with the art. A species should be good at something the others are not, in a way that shows up in the skills table.
+The number of peoples, their names, bodies, societies, histories since the Silence, competences and attitudes are all open. So is whether a "waking machine" that thinks for itself exists.
 
 ## The machines
 
@@ -55,14 +48,14 @@ Drones and mechs left by the Builders, still running. The existing `ERace` alrea
 - **Not a faction with goals** in the ordinary sense. They act like things with a job. Some patrol a route and attack what crosses it. Some repair. Some carry things from one ruin to another. Some stand still for years.
 - **Not reproducible.** Nobody can build one. Nobody can reliably repair one. A dead machine is the richest salvage on the island and the most dangerous thing to go looking for.
 - **Not always hostile.** A machine that ignores you is the common case. One that does not is the thing survey parties do not come back from.
-- **A waking machine** that thinks for itself, Kenshi-skeleton style, is a possibility the bible allows and does not require. If one is ever written, it knows things and will not say them.
+- **A waking machine** that thinks for itself, Kenshi-skeleton style, is a possibility the bible allows and does not require. If one is ever written, it knows things and will not say them. Open with the peoples (above).
 
 ## Outlaws and nomads
 
 The connective tissue. The current `Bandits` and `Travelers` factions are the code side of this.
 
 - **Outlaw bands** on the roads, in the foothills, in abandoned Builder way-stations. Some are desperate, some are professional, some are a militia that lost an election.
-- **Nomads and caravans**: people whose home is the road. The Guild's caravans, independent traders, road-born families, Driftfolk crews.
+- **Nomads and caravans**: people whose home is the road. The Guild's caravans, independent traders, road-born families, crews of whatever peoples the design adds.
 - **Prospectors and salvagers**: the people who go into ruins on purpose. Half of the interesting items in the world come back with them.
 
 ## Mapping the code's placeholders
@@ -78,15 +71,13 @@ The connective tissue. The current `Bandits` and `Travelers` factions are the co
 | `ERace::Human` + 18 subraces | Human, subraces reworked by upbringing |
 | `ERace::Drone`, `ERace::Mech` | The machines |
 | Wild animals | Unchanged; the island's fauna needs its own pass |
-| (none) | `[Uplanders]` and `[Driftfolk]` are new races and at least two new factions each (their institutions, and their outcasts) |
+| (none) | Every people beyond the humans is a new race and at least two new factions (its institutions, and its outcasts); which peoples exist is open (above) |
 
 The rename itself is a data pass, not a design decision, and should wait until the real names exist.
 
 ## Open
 
-- Real names for all five blocs and both alien species.
-- The Driftfolk's look (art bible decides; plate 8).
-- Each alien species' distinctive competence in the skills table.
+- Real names for the blocs, and the other peoples entirely (above).
 - **The `[Technicians]` in the code (2026-09-15).** No `EFaction` value yet. Options: a new faction with its own halls as settlements (the staging tooling can place them), or a role inside existing towns (`ESettlementRole`, the Keeper pattern) with the halls as Guild-neutral buildings. The first fits "a power the Guild cannot buy"; the second is cheaper. Decide when the tier-3 slice is specced.
 - Whether the Guild and the Militias are two factions or many (one per town) in the code. One per town matches how settlements already work; a cross-town Guild faction would need a "member of a larger body" notion that does not exist yet.
 - The island's animals.

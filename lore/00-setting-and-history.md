@@ -39,7 +39,7 @@ Humans came a few generations ago, and their own account of it does not agree wi
 
 The founding generation is dead. Their children are old. Nobody has a document from before the Arrival, or if somebody does, they are not showing it. There is no known home to go back to, and no serious person talks about leaving.
 
-The second alien species, `[the Driftfolk]`, arrived the same way at a different time. They remember about as much.
+Whether other peoples arrived the same way, at other times, is for the peoples' design to say (01).
 
 ### 4. The Founding and now
 
@@ -47,13 +47,13 @@ The first towns were built on the coast, on Builder roads, out of timber, wind a
 
 For three or four generations that was enough. The coast was wide, the interior was somebody else's, and nobody needed it.
 
-Now the good coastal land is taken. Population has grown. The towns have begun to look uphill, where the `[Uplanders]` live among the ruins, and the Uplanders have noticed. The first surveys have gone up the old roads. Some of them came back.
+Now the good coastal land is taken. Population has grown. The towns have begun to look uphill, where `[the highland people]` live among the ruins, and they have noticed. The first surveys have gone up the old roads. Some of them came back.
 
 ## The present balance
 
 There is no single war. There are several powers who would fight each other given a reason, and the reasons are accumulating:
 
-- **The coastal towns pushing uphill** against the `[Uplanders]`. This is the war the player sees first, the front line on the map, the one the militias are arming for.
+- **The coastal towns pushing uphill** against `[the highland people]`. This is the war the player sees first, the front line on the map, the one the militias are arming for.
 - **The towns against each other.** The guild, the militias and the warlord-mayors do not agree on who runs the coast, and the uphill push is partly an excuse to arm.
 - **Everyone courting the `[Technicians]`** (2026-09-15). The one institution that builds high tech sells to both sides of every quarrel and is the reason the uphill push has not happened yet: nobody wants to march without their machines, and the Technicians are in no hurry.
 - **Everyone against the machines**, quietly. Nobody has time for it, and the machines do not seem to want anything, until a survey party goes somewhere it should not.
@@ -69,7 +69,7 @@ The game does not give the player a reason. It gives a start, which is a situati
 - **Explorer**: a map with gaps in it, a mule, a pneumatic rifle and a reason to go uphill.
 - **Homesteaders**: a family or a crew with tools, seed and no money, on unclaimed land.
 - **Deserter**: one unit, a militia weapon, and people looking for it.
-- **Uplander exile**, **Driftfolk crew**, **outlaw band**, and so on as the species and factions get built.
+- **Outlaw band**, and a start for each of the other peoples once they are designed.
 
 Starts are a menu of situations, not of stories. Each one is a set of items, a faction reputation table and a spawn region.
 
@@ -80,7 +80,7 @@ These are the load-bearing mysteries. A data row, a faction blurb or an NPC line
 1. **What the Builders were.** Human, not human, something that made humans. All three are believed by somebody.
 2. **What ended them.** No account. Ruins look abandoned, not destroyed.
 3. **How humans arrived.** Four founding stories, no evidence.
-4. **Whether the Uplanders are the Builders' descendants.** They say so. Their tech does not obviously derive from Builder tech. Their bodies do not obviously fit Builder doorways either.
+4. **Whether any people now on the island descends from the Builders.** Somebody will claim it. Nothing confirms it: no living people's tech obviously derives from Builder tech, and nobody's body obviously fits a Builder doorway.
 5. **What the machines are for.** They act like they have a job. Nobody knows the job.
 6. **Whether there is anything beyond the sea.** No ship has come from elsewhere in living memory. Fishing boats that go too far do not return, or return with nothing to report.
 
@@ -95,8 +95,8 @@ Three rumours invented independently read as an author who had not thought about
 
 The bible does not decide what actually happened, and does not need to for a long time. If a buried truth is ever wanted for a late-game reveal, it should be **one** truth, chosen then, and it must not contradict anything shipped. Candidates, none chosen:
 
-- The Builders left on purpose, and the humans and Driftfolk are later arrivals on a place that was deliberately emptied.
-- The Builders are the Uplanders, who fell and rebuilt as something smaller and do not admit it.
+- The Builders left on purpose, and everyone now on the island is a later arrival on a place that was deliberately emptied.
+- The Builders are one of the peoples still here, who fell and rebuilt as something smaller and do not admit it.
 - The island is a machine, and the drones are maintaining it.
 - Humans were brought, and the "door" story is the true one.
 

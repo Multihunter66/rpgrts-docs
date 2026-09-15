@@ -20,7 +20,7 @@ Every section below is *what is observable*. Nothing here is a fact the game sta
 
 **They notice concentrations.** See below.
 
-**They can be walked past.** Most machines ignore most people most of the time. The Uplanders are better at this than the settlers and will not explain how. Machines are terrain with rules, not an enemy faction.
+**They can be walked past.** Most machines ignore most people most of the time. The people who were here first are better at this than the settlers and will not explain how. Machines are terrain with rules, not an enemy faction.
 
 ## The reclamation rule
 
@@ -55,7 +55,7 @@ The brainstormed cathedral-sized mobile factories were declined on this rule, an
 - **Whether anything is deciding.** Undecided by design, and the tone sheet's sealed-mystery rule means it stays that way in the shipped game. It may be decided privately by whoever writes the machines' behaviour, as long as nothing in the game states it.
 - **A waking machine.** 01-peoples §The machines allows one and does not require one. Unchanged.
 - **Kinds.** How many observably different machine behaviours exist, and whether they map onto the `ERace::Drone` / `ERace::Mech` split or onto something finer. Needs the art and the AI work together.
-- **Whether machines ever take a side** in the settler/Uplander war, by accident or otherwise.
+- **Whether machines ever take a side** in the uphill war, by accident or otherwise.
 
 ## Open
 

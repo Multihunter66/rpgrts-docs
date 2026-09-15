@@ -12,10 +12,10 @@ Draft 1, 2026-09-04. The rules for how the world feels and how every piece of te
 2. **Consequence over lethality.** The combat model is low-lethality by design: people go down, lose limbs, come back changed. The tone follows. A bad day costs an arm, a friend or a town's goodwill, not a game over. Death is possible and should feel like a failure of care, not a scripted beat.
 3. **The mystery stays.** No text explains the Builders, the Silence, the Arrival, or the machines. Texts *disagree* about them. If two NPC lines or two item descriptions about the deep past agree, one of them is wrong.
 4. **Ruins are readable, their makers are not.** A player looking at a Builder site should be able to tell what it was *for* (a road, a store, a stair, a machine bay) without ever learning what its makers *were*. Fallout's legibility, Kenshi's silence.
-5. **People are practical.** Nobody makes speeches. A militia captain wants your rifle, a Guild factor wants your debt, an Uplander elder wants you gone before dark. Motivations are close to the ground.
+5. **People are practical.** Nobody makes speeches. A militia captain wants your rifle, a Guild factor wants your debt, a highland elder wants you gone before dark. Motivations are close to the ground.
 6. **Humour is dry, situational, and never winks.** A town called "Second Attempt". A prosthetic hand with a previous owner's initials. A Builder machine that has been repainting the same wall for eighty years. The joke is the situation, not a character telling it.
-7. **No faction is good.** The Guild is useful and predatory. The militias keep order and start wars. The Uplanders are dignified and will leave you to die on their road. The Driftfolk are sympathetic and will rob you. The player picks a side for their own reasons.
-8. **The frontier is not a fantasy of conquest.** The uphill push is a land grab by people who need land, against people who were there first. The game shows it plainly and takes no side. Uplanders are never drawn as primitive, and settlers are never drawn as heroes for going uphill.
+7. **No faction is good.** The Guild is useful and predatory. The militias keep order and start wars. Whoever lives uphill is dignified and will leave you to die on their road. Whoever has no home is sympathetic and will rob you. (The peoples are open, 01; the rule holds for whatever is designed.) The player picks a side for their own reasons.
+8. **The frontier is not a fantasy of conquest.** The uphill push is a land grab by people who need land, against people who were there first. The game shows it plainly and takes no side. The people who were there first are never drawn as primitive, and settlers are never drawn as heroes for going uphill.
 9. **Scale is human.** No empires, no armies of thousands, no capital. The biggest thing on the island is a town of a few hundred and a militia of fifty. A raid of ten to twenty is a serious raid, and a fight over a fortified town tops out around forty.
 10. **Function first.** This is also the project's development rule and it applies to prose: a description says what a thing does before it says how it feels.
 
@@ -29,7 +29,7 @@ Draft 1, 2026-09-04. The rules for how the world feels and how every piece of te
 
 **Faction and town blurbs**: three or four sentences. What they run, what they want, what they are afraid of. No history older than the founding.
 
-**NPC lines and notices**: short, practical, regional. A Guild notice reads like a bill. A militia order reads like an order. An Uplander line is courteous and gives nothing away.
+**NPC lines and notices**: short, practical, regional. A Guild notice reads like a bill. A militia order reads like an order. A highlander's line is courteous and gives nothing away.
 
 **Research rows**: name the technique, not the discovery. "Air reservoirs" not "The pneumatic revolution".
 
@@ -92,5 +92,5 @@ built or the text does not ship. Write it anyway; several behaviours in
 
 ## Open
 
-- Whether there is any in-world written language beyond settler English (Uplander script, Builder marks). Currently: Builder marks are unreadable, Uplanders write, settlers write English.
+- Whether there is any in-world written language beyond settler English (a highland script, Builder marks). Currently: Builder marks are unreadable, settlers write English; whether the other peoples write waits on their design (01).
 - Profanity and violence register. Kenshi is matter-of-fact about both; the bible assumes the same.

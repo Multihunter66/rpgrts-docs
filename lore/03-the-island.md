@@ -20,15 +20,15 @@ Threats: outlaws on the roads, town rivalries, Guild debt. Nothing here wants to
 
 ### The foothills
 
-The frontier. Where the coast is pushing up and the Uplanders are pushing back. Half-built settler towns, old Uplander sites recently abandoned or recently fortified, Builder way-stations occupied by whoever got there first. The best iron and stone. Prospectors, deserters, land-grabbers, Uplander scouts.
+The frontier. Where the coast is pushing up and `[the highland people]` are pushing back. Half-built settler towns, old highland sites recently abandoned or recently fortified, Builder way-stations occupied by whoever got there first. The best iron and stone. Prospectors, deserters, land-grabbers, highland scouts.
 
 This is the front line of the visible war and the most volatile zone. A player who wants a fight, a fortune or a cause finds all three here.
 
 ### The highlands
 
-Uplander country. Terraced valleys, stone towns, ruins that are still lived in, and the great Builder cities on the ridges that even the Uplanders do not enter. Cold, thin air, hard going. Travel is on Builder roads and stairs; leaving them is slow and dangerous.
+The highland people's country (who they are is open, 01). Terraced valleys, stone towns, ruins that are still lived in, and the great Builder cities on the ridges that even they do not enter. Cold, thin air, hard going. Travel is on Builder roads and stairs; leaving them is slow and dangerous.
 
-The Uplanders have towns, markets, institutions and a law. A human who behaves can trade here. A human who arrives with a survey party and a militia escort cannot. Machines are common enough that everyone knows the rules for walking past them.
+They have towns, markets, institutions and a law. A human who behaves can trade here. A human who arrives with a survey party and a militia escort cannot. Machines are common enough that everyone knows the rules for walking past them.
 
 ### The dead zones
 
@@ -42,7 +42,7 @@ The one thing on the island that lives without being made to. The land is dead b
 
 ## The roads
 
-The Builder road network crosses every zone and is the island's circulatory system. It is paved, graded, bridged and stepped, and it does not care about the borders people have drawn since. A road runs from a Guild harbour straight up through the front line into an Uplander market town and on to a dead zone, because that is where the Builders wanted to go. Caravans, armies and refugees all use it, sometimes on the same day.
+The Builder road network crosses every zone and is the island's circulatory system. It is paved, graded, bridged and stepped, and it does not care about the borders people have drawn since. A road runs from a Guild harbour straight up through the front line into a highland market town and on to a dead zone, because that is where the Builders wanted to go. Caravans, armies and refugees all use it, sometimes on the same day.
 
 In the game the road nodes *are* this network. Roads that people built since are dirt tracks and do not get nodes.
 
@@ -52,9 +52,9 @@ Using the item names that already exist:
 
 | Resource | Coast | Foothills | Highlands |
 |---|---|---|---|
-| Wood | River valleys only; scarce | Some, in the gullies | Scarce; Uplanders build in stone |
+| Wood | River valleys only; scarce | Some, in the gullies | Scarce; the highlands build in stone |
 | Stone | Some | Plentiful | Plentiful, and Builder-cut |
-| Iron | Poor, near-surface | The good seams | Uplander bronze instead |
+| Iron | Poor, near-surface | The good seams | Highland bronze instead |
 | Wheat / food | Farms | Homesteads | Terraces; different crops later |
 | Water | River mouths, wells; the limiting resource | Deep wells, springs | Cisterns, Builder aqueducts |
 | Builder salvage | Rare finds | Way-stations | Dead zones |
@@ -66,7 +66,7 @@ The iron gradient is the economic engine of the frontier war: the coast has poor
 The user's stated intent: *a test level with a couple of settlements and resources.* From the bible, the smallest level that exercises the world is a **foothill valley**:
 
 - One **settler town** at the valley mouth, on a road node: mill, smithy, shop, militia, a generator if the power slice is to be tested.
-- One **Uplander town** at the valley head, on the same road: stone, terraces, bronze, a market, patrols.
+- One **highland town** at the valley head, on the same road: stone, terraces, bronze, a market, patrols. Whose town it is waits on the peoples' design; the aesthetic does not.
 - A **Builder way-station** halfway, empty or held by outlaws, with one machine that ignores you.
 - **Resources** along the road: a wood stand near the settler town, a stone quarry and an iron seam in the middle, water at both ends.
 - A **bandit camp** off the road.
@@ -79,4 +79,4 @@ That is two settlements, one contested site, one road, every resource, and the f
 - The island's real shape: an outline sketch is an art-bible task.
 - Climate and seasons. The clock has a calendar; nothing uses it for weather. A dry island makes a rainy season, if there is one, an event.
 - The island's animals, by zone.
-- Whether the Uplanders' crops are different from the coast's (they should be, eventually; the farming slice grows wheat only today).
+- Whether the highland crops are different from the coast's (they should be, eventually; the farming slice grows wheat only today).

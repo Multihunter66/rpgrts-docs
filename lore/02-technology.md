@@ -22,7 +22,7 @@ The visual consequence: **every machine shows how it works.** Air tanks, cranks,
 
 **The player builds everything, or nearly (decided 2026-09-15).** Every settler tier is on the research tree, tier 3 included; the cost of tier 3 is time, a specialised building, salvage from the dead zones and a hard-to-get starting point, never a flat "no". The line the player cannot cross is tier 4: Builder tech itself is never craftable, only salvaged and rebuilt into a tier-2 or tier-3 object. What "nearly" excludes beyond that is in the Open list.
 
-The research tree is the settlers' tree. Uplander technology is a parallel ladder (textiles, ceramics, bronze, stone, and a few unexplained things) that a player with Uplander units may learn in part. That is a later slice; the bible only needs to say it exists and is not inferior.
+The research tree is the settlers' tree. `[the highland people]` have a parallel ladder (the highland aesthetic says textiles, ceramics, bronze, stone, and a few unexplained things; the people are open, 01) that a player with their units may learn in part. That is a later slice; the bible only needs to say it exists and is not inferior.
 
 ## Weapons
 
@@ -32,7 +32,7 @@ The current `DT_WeaponData` rows are placeholders (`Knife`, `Club`, `Iron_Sword`
 
 - **Club, knife, hatchet, spear.** What everyone has.
 - **Iron sword, sabre.** A militia sidearm. Tier 0 to make, tier 1 to make well.
-- **Bow.** Hunting, and the Uplanders' weapon of choice in the hills, where powder is scarce.
+- **Bow.** Hunting, and the weapon of choice in the hills, where powder is scarce.
 
 ### Tier 1: frontier firearms
 
@@ -68,7 +68,7 @@ What the `[Technicians]` make, and what a player with a workshop and enough salv
 
 - **Leather, padded cloth, hide** (tier 0): what everyone wears.
 - **Iron plate** (tier 1): cuirass, helmet, greaves, bracers. Heavy, smith-made, riveted, the militia's best. The existing armour model's per-limb coverage and durability fit this without change.
-- **Uplander textile and bronze**: light, layered, better against cuts than a settler expects.
+- **Highland textile and bronze**: light, layered, better against cuts than a settler expects. Whose it is: open (01).
 - **Salvage plate**: Builder alloy panels strapped over leather. Absurdly good against energy, strange against everything else. Rare.
 
 ## Power
@@ -98,7 +98,7 @@ Wood is a luxury material on a treeless island, and that has two consequences th
 
 - **Masks and bad air (Metro, 2026-09-04).** Dust masks are settler kit for the honest reason (sand, salt, storms). Whether the dead zones ALSO have bad air, making a mask with consumable filters required there, is open; it would be a system (a need or a status effect plus a filter item), and it would make the dead zones a Metro-style expedition. Not decided.
 
-- The Uplander ladder in detail, and which parts a player can learn.
+- The highland ladder in detail, and which parts a player can learn. Waits on the peoples' design (01).
 - Builder cells as a power source: decided 2026-09-15 for tier 3 only (the cell generator); on tiers 1 and 2 they stay weapon cores. Still open: whether a cell depletes, and what a spent cell is worth.
 - **What "nearly everything" excludes (2026-09-15).** The player builds every settler tier. Candidates for the short list that stays found-only: the repeater (below), the first Technician blueprint of each tier-3 line (so a player has to trade, steal or study for the entry, then builds freely), and anything that needs a living Technician rather than a blueprint. Decide per row when the tier-3 rows are written.
 - **How tier 3 is gated in the tree.** The research subsystem gates by tag and the blueprint-item path exists; tier 3 wants both, plus a building (the workshop) and a salvage input on the research bill itself. Whether a research bill can consume items is a system question for that slice.

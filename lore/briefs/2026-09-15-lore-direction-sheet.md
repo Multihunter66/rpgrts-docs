@@ -1,6 +1,6 @@
 # Lore direction sheet
 
-2026-09-15. The one page handed to anyone who writes, draws or designs for this world. It says where the world is going and what is fixed, and it leaves the rest to the people doing the work. **What is fixed is the aesthetic, the tone, the frame and a handful of mysteries. Who actually lives on the island is not decided yet, and designing that is the job.** The companion is `2026-09-15-concept-art-direction-sheet.md`, which covers how it looks. The bible files in `docs/lore/` hold one draft of the peoples; treat it as a first proposal, not as canon. Names in `[brackets]` are placeholders; the island and the game have no name yet.
+2026-09-15. The one page handed to anyone who writes, draws or designs for this world. It says where the world is going and what is fixed, and it leaves the rest to the people doing the work. **What is fixed is the aesthetic, the tone, the frame and a handful of mysteries. Who actually lives on the island is not decided yet, and designing that is the job.** The companion is `2026-09-15-concept-art-direction-sheet.md`, which covers how it looks. The bible files in `docs/lore/` fix the frame and the aesthetic and leave the peoples open. Names in `[brackets]` are placeholders; the island and the game have no name yet.
 
 ---
 
@@ -29,7 +29,7 @@ These are the load-bearing facts. Build on them; do not contradict them.
 
 ## 4. What is open: the peoples
 
-**We do not know who is on the island yet.** The bible's draft proposes two alien species (a tall, composed highland people claiming descent from the Builders, and a stranded, homeless people with no territory of their own) plus the machines and the outlaws. That draft exists so there is something to argue with. **A writer may keep it, change it or replace it.** What a proposal has to respect:
+**We do not know who is on the island yet.** The bible fixes that someone lives in the highlands and was there first, plus the machines and the outlaws, and nothing else about the peoples. An earlier draft with two named alien species was withdrawn on 2026-09-15 so that nothing reads as canon. **Designing the peoples, from how many there are to what they want, is the writer's job.** What a proposal has to respect:
 
 - **Humanoid, on a shared skeleton.** Every species is two arms, two legs, a head, in one proportion family, so it shares the animation library and the armour sockets. Difference lives in the head, the skin, the hands, the build, the bearing and the culture, never in the limb count. An exotic body plan is a later, separate cost. (See the art sheet for why this is realistic-proportion, not stylised.)
 - **Not primitive, not evil, not noble savages.** A people that was here first has institutions, a law, a technology that is different rather than worse, and reasons of its own. A stranded people is nobody's responsibility and everybody's go-between. Whatever you design, it wants something concrete and close to the ground.

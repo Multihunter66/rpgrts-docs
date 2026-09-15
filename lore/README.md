@@ -5,7 +5,7 @@ First drafts, written 2026-09-04 from one brainstorming session. Everything here
 | File | What it settles |
 |---|---|
 | [00-setting-and-history.md](00-setting-and-history.md) | The fallen civilisation, the roads, the Arrival, the present balance of powers, and the rules for what the game never explains |
-| [01-peoples-and-factions.md](01-peoples-and-factions.md) | Humans, the two alien species, the machines, outlaws; how the placeholder factions and subraces in the code map onto them |
+| [01-peoples-and-factions.md](01-peoples-and-factions.md) | Humans and their institutions, the machines, outlaws; the other peoples are OPEN for contributors to design (2026-09-15); how the placeholder factions and subraces in the code map onto them |
 | [02-technology.md](02-technology.md) | The tech ladder (hand craft, frontier machines, relics, Builder machines), what each weapon is, how power and medicine fit |
 | [03-the-island.md](03-the-island.md) | Coast, foothills, highlands, dead zones, the sea; what grows and is dug where; what a first test level should contain |
 | [04-tone-sheet.md](04-tone-sheet.md) | Tone rules, writing voice, a do/don't list for every piece of text the game shows |
@@ -27,7 +27,7 @@ First drafts, written 2026-09-04 from one brainstorming session. Everything here
 
 - Something fell, long ago, and the game never fully explains what. Kenshi's mystery with Fallout's readable ruins.
 - The fallen civilisation is Inca-flavoured: monumental highland stone, a road network that outlived them.
-- Humans are stranded a few generations back, origin lost, no known home.
+- Humans are stranded a few generations back, origin lost, no known home. Who else lives on the island was reopened 2026-09-15: contributors design the peoples; the aesthetic is fixed.
 - The whole island is inhabited. "Unexplored" means unexplored by *your* people.
 - Frontier tech: slow, handmade, mechanical. Steam, pneumatics, laser muskets. Sci-fi wild west, steam and diesel.
 - Several powers in a shifting balance; the settlers pushing uphill is the visible war.
